@@ -43,4 +43,7 @@
 <a href="https://www.instagram.com/eddy_adventure/?hl=zh-tw" target="_blank">他的instagram<br>
 <img src="https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.15752-9/54217375_340160196615675_6989033326812069888_n.png?_nc_cat=102&_nc_ht=scontent.ftpe8-4.fna&oh=3404f806b3c5352fa1d1dc738ef78337&oe=5D15A939" alt=eddy""></a><br>
 Eddy Chen陳韋丞，台灣人，生於1993/03/23，爸爸是牙醫，對他的課業非常要求！音樂之路相當坎坷，所以用醫學院的分數證明他對音樂的熱愛，這位是能力值未知的奇葩，首先是絕對音感，（能同時聽出七個音有點狂，佩服到五體投地），自學的日文能力也是未知，很喜歡火影忍者的鳴人，可能有點喜歡cosplay並且常常扮女裝ＸＤ討厭吃香菇，極度害怕蟑螂。
+	<p>願意訂閱他們了嗎ＱＱ</p>
+		<label for="Yes"><input id="Yes" type="radio" name="Yes-No">Yes</label>
+		<label for="No"><input id="No" type="radio" name="Yes-No">No</label><br>
 </html>
