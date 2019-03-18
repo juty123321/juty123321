@@ -26,10 +26,9 @@
 		>TwoSetViolin</h2>
 		<img src="https://static1.squarespace.com/static/588eb710cd0f68ca7cf49206/t/5896d1f8bebafb043e989235/1486353676241/IMG_0635.JPG.jpg?format=2500w" alt="twoset圖片">
       <p>
-        今天要來介紹個最近非常非常非常喜歡的雙人組合，TwoSet Violin～他們說自己是兩把小提琴，其實台灣翻「雙琴俠」啦！不過我習慣直接說TwoSet
-        <a href="https://www.youtube.com/watch?v=MTejZ3_PM_A&list=PLq-Pj3G-56pARUDEbOCIbxwK09-95n6Jr&index=62" target="_blank">就像這樣</a>他們是音樂人、音樂家、同時也是ＹＯＵＴＵＢＥＲ，性質是～半搞笑組合（？）
+        Brett
       </p>
-       
+       <img src="https://scontent-frx5-1.cdninstagram.com/vp/1795360e460434b427addd20aa9fcb5e/5D183742/t51.2885-15/e35/26226493_160762298040236_8994357809332092928_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&se=7&ig_cache_key=MTcwMDc1MzYxMzk1MTExMjk2Mg%3D%3D.2" alt="Brett圖片">
 		<h3 style="color: orange; font-size: 30px; font-family: cwtexyen, serif;">
 			<br>
 		</h3>
