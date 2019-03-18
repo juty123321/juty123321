@@ -35,4 +35,13 @@
 	<a href="https://www.instagram.com/brettybang/?hl=zh-tw" target="_blank">我老公的instagram<br>
 	<img src="https://scontent-ams3-1.cdninstagram.com/vp/bc97601bf6f6c520b14a56071b319c0e/5D25C7C1/t51.2885-19/s320x320/31846935_202808460446163_4256226837018968064_n.jpg?_nc_ht=scontent-ams3-1.cdninstagram.com" alt=我老公""></a><br>
 	Brett Yang楊博堯，台灣人，生於1992/03/03，偶像是Janine Jansen，他喜歡喝咖啡（沒準還是吃貨一枚）限時動態無時無刻都有咖啡ＸＤ，在選擇走音樂這條路上，最大的困擾就是他媽媽的習慣性炫耀，他很擅長說話，雖然影片中幹話一堆，可是有些觀點蠻值得省思，比如：「動力沒辦法持久，所以比起motivation更需要的是紀律」「喜歡做什麼就去做，人生已經很短了，才沒空理會別人怎麼想」．．而且他也確實說到做到了！不愧是我老公（？）
+	
+	<h3 style="color: orange; font-size: 30px; font-family: cwtexyen, serif;">
+Eddy<br>
+</h3>
+<p>
+<a href="https://www.instagram.com/eddy_adventure/?hl=zh-tw" target="_blank">他的instagram<br>
+<img src="https://yt3.ggpht.com/a-/AAuE7mBE8O39gOUTA0Sf7fcSIHMG59svh39xFhIDBw=s900-mo-c-c0xffffffff-rj-k-no" alt=eddy""></a><br>
+Eddy Chen陳韋丞，台灣人，生於1993/03/23，這位是能力值未知的奇葩，首先是絕對音感，（能同時聽出七個音有點狂，佩服到五體投地），自學的日文能力也是未知
+	<img src="https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.15752-9/54434511_2005186973117289_4257725381173313536_n.png?_nc_cat=109&_nc_ht=scontent.ftpe8-1.fna&oh=9ad29fa371e7c7003f9455061c40bd95&oe=5D14CB5F" alt="eddy learn">
 </html>
