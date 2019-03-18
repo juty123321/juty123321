@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<link href="https://fonts.googleapis.com/earlyaccess/cwtexyen.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC" rel="stylesheet">
@@ -19,7 +18,7 @@
 	</style>
 	<head>
 		<title>顛覆想像的古典音樂Youtuber</title>
-		<h1 style="color: deeppink; font-size: 35px; font-family: cwtexfangsong, serif;" align="center">TwoSetViolin</h1>
+		<h1 style="color: deeppink; font-size: 35px; font-family: cwtexfangsong, serif;" align="center">顛覆想像的古典音樂Youtuber</h1>
 	</head>
 	<body bgcolor="aliceblue" text="saddlebrown" style="font-family: Noto Sans TC; font-size: 20px;" link="blueviolet" vlink="darkslateblue">
 		<h2 style="color: orange; font-size: 30px; font-family: cwtexyen, serif;"
