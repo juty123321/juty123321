@@ -27,7 +27,7 @@
        <BR><INPUT TYPE="checkbox" NAME="answer" VALUE=no>不會
         <INPUT TYPE="submit" NAME="Submit_Bottom" VALUE="送出">
         <INPUT TYPE="reset" NAME="Reset_Bottom" VALUE="重設">
-        <BR>請輸入你的意見：<BR>
+        請輸入你的意見：<BR>
         <TEXTAREA NAME="COMMENT" ROWS=5 COLS=30>
         我的意見為：
         </TEXTAREA><P>
@@ -35,6 +35,18 @@
         <INPUT TYPE="reset" NAME="Reset_Bottom" VALUE="重設">
      </FORM>
     <FONT COLOR=#2E8B57><MARQUEE BEHAVIOR=ALTERNATE>他們很可愛對不對！</MARQUEE></FONT>
+          <script>  
+  if (navigator.geolocation){
+  navigator.geolocation.getCurrentPosition(function(position) {
+    document.getElementById('data').innerHTML="latitude: "+ position.coords.latitude + "<br>longitude: " + position.coords.longitude;
+  });
+}
+  
+</script>
+<h4>You are here:</h4>
+<div id="data">
+
+</div>
   </BODY>
 
 </HTML>
